@@ -1,0 +1,46 @@
+
+body{
+    width:100vw;
+    height:100vh;
+
+    background-color:rgb(64, 95, 189) ;}
+
+.card{
+
+
+   border:1px solid black;
+    height: 200px;
+
+
+}
+.card-sucess{
+
+
+   width:70%;
+    background-color:green ;
+
+}
+.card-light{
+
+
+    width:50%;
+    ;
+    background-color:brown;
+
+}
+.container-fluid{
+
+
+    width:100%;
+
+}
+.card-warning{
+    background-color: yellow;
+
+
+
+}
+.card-primary{
+    background-color: blue;
+}
+

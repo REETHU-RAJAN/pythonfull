@@ -1,0 +1,53 @@
+.row{width:50%;
+    background-color: aquamarine;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 100px;
+    position: relative;
+
+
+
+
+
+}
+.col{
+
+
+    width: 20%;
+    height: 200px;
+    border: 1px solid white;
+
+}
+/* pseudo element */
+.col:nth-child(1){
+    background-color: yellow;
+    position: absolute;
+    top:0;
+
+
+
+}
+.col:nth-child(2){
+
+
+    background-color: brown;
+    bottom:0;
+    position: absolute;
+    right:0;
+}
+.fixed{
+
+
+    position: fixed;
+    top:100px;
+    right:0;
+}
+.st{
+    position: sticky;
+    top:100px;
+
+
+
+}
+
+

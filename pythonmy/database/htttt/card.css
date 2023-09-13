@@ -1,0 +1,47 @@
+
+body{
+    margin:0;
+    /* height:100vh;
+    width:100vw; */
+}
+
+
+.section{
+    width:200px;
+    height:50px;
+    border :1px solid black;
+    padding-left: 10%;
+    padding-top:50px;
+    margin-bottom: 80px;
+
+
+}
+.nav{
+    margin-top:20px ;
+    background-color: red;
+    margin-right: auto;
+
+
+
+
+
+}
+.center{
+
+
+    background-color:yellow;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.right{
+    margin-left: auto;
+
+    background-color:green;
+
+
+
+}

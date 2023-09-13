@@ -1,0 +1,38 @@
+.row{width:50%;
+    background-color: aquamarine;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 100px;
+
+
+
+
+
+}
+.col{
+
+
+    width: 20%;
+    height: 200px;
+    border: 1px solid white;
+
+}
+/* pseudo element */
+.col:nth-child(1){
+    background-color: yellow;
+
+
+
+
+}
+.col:nth-child(2){
+
+
+    background-color: brown;
+    left:80%;
+    position: relative;
+
+}
+
+
+

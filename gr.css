@@ -1,0 +1,39 @@
+.row{
+
+
+    width:80%;
+    height:800px;
+    background-color: aquamarine;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-row-gap:10px; */
+    grid-gap:20px;
+
+}
+.item{
+
+
+
+
+
+
+    border:1px solid black;
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+}
+
+.item:nth-child(2){
+
+background-color: orange;
+grid-row-start: 2;
+grid-row-end: 4;
+
+
+}
+.item:nth-child(1){
+    background-color: yellow;
+    grid-column-start: 1;
+    grid-column-end:3 ;
+}
+

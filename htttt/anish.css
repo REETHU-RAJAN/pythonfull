@@ -1,0 +1,42 @@
+/*
+tag name|class|id{
+    property=value;
+    property=value;
+}
+*/
+body{background-color:black ;}
+h1{color:white; text-decoration:underline;}
+
+a{color:white;text-decoration: none;}
+/* # id{
+   property:value;
+
+
+}*/
+/* #id_tag{color:aquamarine;
+
+}
+#offer_link{
+
+    color:red;
+} */
+
+
+.heading{
+   color:white;
+   text-decoration: underline
+
+
+}
+.heading-sucess{
+
+    color:green
+}
+.card{
+
+
+    width:30%;
+    height: 300px;
+    background-color: aquamarine;
+    color:black
+}

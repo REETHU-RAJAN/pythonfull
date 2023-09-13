@@ -1,0 +1,110 @@
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=EB+Garamond&family=Roboto:wght@100&family=Rowdies:wght@300&display=swap');
+
+
+
+
+body{
+    margin:0;
+    height:100vh;
+    background-color: #03071e;
+    color:white;
+      font-family: 'Roboto', sans-serif;
+      font-family: 'Rowdies', cursive;
+
+
+}
+.nav-item a{
+    color:white
+
+}
+
+.nav-item a:hover{
+  color:red;
+ }
+section{
+
+font-family: 'Roboto', sans-serif;
+
+
+}
+.cc{
+color:#ffc300;
+
+font-family: 'EB Garamond', serif;
+
+
+
+}
+.cd{
+font-family: 'Dancing Script', cursive;
+
+
+}
+.h-5{
+  min-height: 450px;
+
+
+}
+.profile{
+width:250px;
+margin:20px;
+filter:drop-shadow(10px 10px 20px white)
+
+}
+img{
+
+width:250px;
+margin:20px;
+
+
+}
+
+.container{
+    width: 80%;
+    background-color: #03071e;
+ }
+ .card{
+
+    width:80%;
+
+    height: 420px;
+   color:white;
+  background-color: #03071e;
+    display: flex;
+    padding:10px;
+    gap:20px;}
+
+.row1{
+    width:100%;
+
+    display: flex;
+
+    justify-content: space-around;
+    margin-top: 20px;
+
+
+}
+.subhead{
+font-family: 'Dancing Script', cursive;
+
+}
+.cardss{
+color:#e76f51;
+}
+.card-body{
+
+    margin-top: 20px;
+    margin-left:120px;
+    width:80%
+
+}
+.card img{
+height=500px;
+
+}
+
+

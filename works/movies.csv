@@ -1,0 +1,10 @@
+language,name,rating,year,genres
+malayalam,2018,5,2023,['mystery']
+malayalam,aadujeevitahm,5,2023,"['fiction', 'drama']"
+malayalam,neymar,4,2023,"['action', 'comedy', 'romance']"
+malayalam,sunny,4,2022,"['drama', 'thriller']"
+malayalam,12th man,3,2022,"['drama', 'thriller']"
+thamil,vikram,5,2022,"['action', 'thriller']"
+thamil,jai bhim,5,2021,"['mystery', 'crime']"
+hindi,pathaan,5,2023,"['action', 'thriller']"
+telungu,kgf,5,2018,"['action', 'romance', 'thriller']"
